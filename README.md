@@ -3,19 +3,22 @@
 #**Oasis Intern Tasks**
 This repository contains the completion of three tasks assigned during the Oasis Internship. Each task corresponds to a specific level of complexity. The tasks include:
 
-#Level 1 Task: Page Layout
+#Level 1 Task:
+Page Layout
 Task Description: Create a page layout using HTML and CSS.
 
-#Level 2 Task: Portfolio Website
+#Level 2 Task:
+Portfolio Website
 Task Description: Design and develop a personal portfolio website showcasing skills, projects, and contact information.
 
-#Level 3 Task: Temperature Converter
+#Level 3 Task:
+Temperature Converter
 Task Description: Build a temperature converter web application that converts temperature between Celsius, Fahrenheit, and Kelvin.
 
 **Deployment Links : **
-#Level 1 Task: Page Layout - Deployment Link
-#Level 2 Task: Portfolio Website - Deployment Link
-#Level 3 Task: Temperature Converter - Deployment Link
+#Level 1 Task: Page Layout - https://sahilkhan786000.github.io/ilma_healthcare.github.io/
+#Level 2 Task: Portfolio Website - https://sahilkhan786000.github.io/portfolio/
+#Level 3 Task: Temperature Converter - https://sahilkhan786000.github.io/temperature_convertor/
 Please refer to the respective task folders for detailed code implementation and instructions on running or deploying the solutions.
 
 #Repository Structure
