@@ -36,20 +36,7 @@ level3/: Contains files related to the Level 3 Task (Temperature Converter).
 README.md: The main documentation file you are currently reading.
 Feel free to explore the individual task folders for more information about each task.
 
-How to Use
-Clone the repository to your local machine using the following command:
-
-bash
-Copy code
-git clone https://github.com/your-username/oasis-intern-tasks.git
-Navigate to the specific task folder (level1, level2, or level3) to access the corresponding code.
-
-Follow the instructions provided in each task's folder to run, test, or deploy the solution.
-
 Contributing
 Contributions to this repository are currently not accepted as it is intended for showcasing completed tasks. However, if you have any suggestions or improvements, feel free to open an issue or reach out to the repository owner.
-
-License
-This project is licensed under the MIT License.
 
  
