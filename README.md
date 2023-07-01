@@ -16,9 +16,15 @@ Temperature Converter
 Task Description: Build a temperature converter web application that converts temperature between Celsius, Fahrenheit, and Kelvin.
 
 **Deployment Links : **
-#Level 1 Task: Page Layout - https://sahilkhan786000.github.io/ilma_healthcare.github.io/
-#Level 2 Task: Portfolio Website - https://sahilkhan786000.github.io/portfolio/
-#Level 3 Task: Temperature Converter - https://sahilkhan786000.github.io/temperature_convertor/
+#Level 1 Task:
+Page Layout - https://sahilkhan786000.github.io/ilma_healthcare.github.io/
+
+#Level 2 Task:
+Portfolio Website - https://sahilkhan786000.github.io/portfolio/
+
+#Level 3 Task:
+Temperature Converter - https://sahilkhan786000.github.io/temperature_convertor/
+
 Please refer to the respective task folders for detailed code implementation and instructions on running or deploying the solutions.
 
 #Repository Structure
